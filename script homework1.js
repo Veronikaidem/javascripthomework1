@@ -77,7 +77,7 @@
 
 
 
-// ------homework1=======
+// ------FIRST HOMEWORK=======
 
 // let user = {
 //     firstname: 'giorgi',
